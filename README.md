@@ -1,4 +1,4 @@
-## Hello there! I'm Swargaraj 👋
+## 👋 Hello there! I'm Swargaraj
 
 A passionate developer with a love for coding and creating new things. I am enthusiastic about exploring and learning new technologies to expand my skillset and to create innovative solutions for various real-world problems.
 
@@ -10,6 +10,9 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 <a href="https://youtube.com/@Swargaraj.Bhowmik">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://twitter.com/swargarajbh">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik)]
+![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik)
+
+![](https://raw.githubusercontent.com/swargarajbhowmik/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/swargarajbhowmik/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=swargarajbhowmik&color=blue)
