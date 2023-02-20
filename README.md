@@ -6,6 +6,7 @@ I believe in the power of open-source software and the collaborative nature of t
 
 Thanks for stopping by, and feel free to explore my repositories and connect with me on
 
-![https://instagram.com/swargarajbhowmik](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="https://instagram.com/swargarajbhowmik">![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
 
 ![](https://komarev.com/ghpvc/?username=swargarajbhowmik&color=blue)
