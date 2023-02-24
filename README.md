@@ -108,6 +108,6 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## :star: Other Info
+## <center><p align = "center"> :star: Other Info </p> </center>
 
 ![](https://komarev.com/ghpvc/?username=swargarajbhowmik&color=blue)
