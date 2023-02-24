@@ -13,13 +13,13 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik&show_icons=true&theme=vue-dark)
 
-## Latest 
+## Latest Projects
 
 [![URL Shortener Website and API in PHP](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=ushortener-web-and-api)](https://github.com/swargarajbhowmik/ushortener-web-and-api&show_icons=true&theme=vue-dark)
 
 ## Top Language That I Use
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&layout=compact)
 
 ## Tech Stacks
 
