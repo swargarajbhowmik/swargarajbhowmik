@@ -17,7 +17,7 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 ## Basic Info
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik&show_icons=true&theme=tokyonight) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&layout=compact&cache_seconds=86400&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&cache_seconds=86400&theme=tokyonight)
 
 ## Latest Projects
 
