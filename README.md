@@ -14,16 +14,14 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 <a href="https://codepen.com/swargarajbhowmik">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
 <a href="https://stackoverflow.com/swargarajbhowmik">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 
+## Basic Info
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&layout=compact&cache_seconds=86400&theme=tokyonight)
 
 ## Latest Projects
 
 ![URL Shortener Website and API in PHP](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=ushortener-web-and-api&cache_seconds=86400&theme=tokyonight)
-
-## Top Language That I Use
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&layout=compact&cache_seconds=86400&theme=tokyonight)
 
 ## Tech Stacks That I Know
 
@@ -110,5 +108,6 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## Other Info
 
 ![](https://komarev.com/ghpvc/?username=swargarajbhowmik&color=blue)
