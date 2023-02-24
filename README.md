@@ -20,7 +20,7 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 
 ## Top Language That I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&layout=compac0&cache_seconds=86400&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&layout=compact&cache_seconds=86400&theme=tokyonight)
 
 ## Tech Stacks
 
