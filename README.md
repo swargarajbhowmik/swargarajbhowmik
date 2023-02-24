@@ -11,10 +11,10 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 <a href="https://youtube.com/@Swargaraj.Bhowmik">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://twitter.com/swargarajbh">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik&show_icons=true&theme=tokyonight)
 
 ## Pins 
 
-[![URL Shortener Website and API in PHP](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=ushortener-web-and-api)](https://github.com/swargarajbhowmik/ushortener-web-and-api)
+[![URL Shortener Website and API in PHP](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=ushortener-web-and-api)](https://github.com/swargarajbhowmik/ushortener-web-and-api&show_icons=true&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=swargarajbhowmik&color=blue)
