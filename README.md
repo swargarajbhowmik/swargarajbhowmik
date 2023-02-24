@@ -14,7 +14,12 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 <a href="https://codepen.com/swargarajbhowmik">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
 <a href="https://stackoverflow.com/swargarajbhowmik">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 
-## 📊 Stats
+## 📊 Programming Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 📈 Github Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik&show_icons=true&theme=tokyonight) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&cache_seconds=86400&theme=tokyonight)
