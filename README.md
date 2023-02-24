@@ -15,8 +15,8 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 
 ## Latest Projects
 
-[tokyonight]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight
-[![URL Shortener Website and API in PHP](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=ushortener-web-and-api)](https://github.com/swargarajbhowmik/ushortener-web-and-api&show_icons=true&theme=vue-dark)
+[tokyonight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=ushortener-web-and-api&cache_seconds=86400&theme=tokyonight
+[![URL Shortener Website and API in PHP](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=)](https://github.com/swargarajbhowmik/ushortener-web-and-api&show_icons=true&theme=vue-dark)
 
 ## Top Language That I Use
 
