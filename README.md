@@ -14,16 +14,16 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 <a href="https://codepen.com/swargarajbhowmik">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
 <a href="https://stackoverflow.com/swargarajbhowmik">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 
-## Basic Info
+##📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=swargarajbhowmik&show_icons=true&theme=tokyonight) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swargarajbhowmik&hide=Procfile&cache_seconds=86400&theme=tokyonight)
 
-## Latest Projects
+##📌 Latest Projects
 
 ![URL Shortener Website and API in PHP](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=ushortener-web-and-api&cache_seconds=86400&theme=tokyonight)
 
-## Tech Stacks That I Know
+## 🛠️ Tech Stacks That I Know
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,7 +54,7 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 ### Designing
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Upcoming Tech Stacks
+## 🚀 Upcoming Tech Stacks
 
 ### Languages
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -101,13 +101,13 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 ### Designing
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## OS That I Can Use
+## 💻 OS That I Can Use
 
 ![Any Debian Based OS](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Other Info
+## 🌟 Other Info
 
 ![](https://komarev.com/ghpvc/?username=swargarajbhowmik&color=blue)
