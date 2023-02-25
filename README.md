@@ -1,5 +1,5 @@
 
-# 👋 Hello there! I'm Swargaraj
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hello there! I'm Swargaraj
 
 A passionate developer with a love for coding and creating new things. I am enthusiastic about exploring and learning new technologies to expand my skillset and to create innovative solutions for various real-world problems.
 
