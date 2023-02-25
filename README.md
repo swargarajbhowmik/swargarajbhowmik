@@ -16,8 +16,8 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 
 ## 📊 Programming Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
 
 ## 📈 Github Stats
 
