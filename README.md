@@ -26,6 +26,7 @@ Thanks for stopping by, and feel free to explore my repositories and connect wit
 
 ## 📌 Latest Projects
 
+![Clean Badges](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=Clean-Badges&cache_seconds=86400&theme=tokyonight)
 ![URL Shortener Website and API in PHP](https://github-readme-stats.vercel.app/api/pin/?username=swargarajbhowmik&repo=ushortener-web-and-api&cache_seconds=86400&theme=tokyonight)
 
 ## 🛠️ Tech Stacks That I Know
